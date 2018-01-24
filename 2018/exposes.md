@@ -23,7 +23,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | Web RTC                       |               |                  |       |
 | IndexedDB                     |               |                  |       |
 | Frameworks de test en JS      |               |                  |       |
-| Web performance               |               |                  |       |
+| Web performance               | CURRANT, GRANDY, GUEUX               |                  |       |
 | AB testing                    |               |                  |       |
 | WebAssembly                   |               |                  |       |
 | TypeScript                    |               |                  |       |
