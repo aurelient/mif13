@@ -16,7 +16,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | Ember                         |               |                  |       |
 | Angular                       | keraghel, seguin, touatioui     |           |       |
 | React                         | CHAPUT, HERAUT, SACCHARIN |                  |       |
-| P5.js                         |               |                  |       |
+| P5.js                         | ABDESSALEM, AIFA, CAN, DOUCOURE              |                  |       |
 | D3.js                         |  LAFOND, NUEL, MARRON             |                  |       |
 | Preprocesseurs CSS            |               |                  |       |
 | Frameworks CSS                |               |                  |       |
