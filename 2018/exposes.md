@@ -12,7 +12,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | Firebase                      | nom de famille 1, nom de famille 2, nom de famille 3 |                  |       |
 | Hood.ie                       |               |                  |       |
 | Phantom.js                    | GOUDARD, LAO, NGUON, KONG WIN CHANG              |                  |       |
-| Web workers                   |               |                  |       |
+| Web workers                   |        DJEMAOUNE LAINCEUR       |                  |       |
 | Ember                         |               |                  |       |
 | Angular                       | keraghel, seguin, touatioui     |           |       |
 | React                         | CHAPUT, HERAUT, SACCHARIN |                  |       |
